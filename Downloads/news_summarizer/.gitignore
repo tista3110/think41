@@ -1,7 +1,0 @@
-# Ignore virtual environment and large files
-env/
-__pycache__/
-*.dll
-*.lib
-*.pkl
-*.h5
